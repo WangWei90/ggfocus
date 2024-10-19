@@ -20,13 +20,13 @@
 
 示例，在虚拟桌面1和虚拟桌面2运行
 
-![](./figures/ui-01.jpg)
+![not exist](./figures/ui-01.jpg)
 
-![](./figures/ui-02.jpg)
+![not exist](./figures/ui-02.jpg)
 
 本工具有2个界面可选
 
-![](./figures/ui-03.jpg)
+![not exist](./figures/ui-03.jpg)
 
 ### 安装
 
